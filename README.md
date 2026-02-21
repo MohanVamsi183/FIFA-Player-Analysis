@@ -65,7 +65,7 @@ All three models generalized well with no evidence of overfitting.
 - scikit-learn (Ridge Regression, Random Forest)
 - XGBoost
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/fifa-player-finishing-analysis.git
